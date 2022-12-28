@@ -40,16 +40,17 @@
   <p align="center">
     Supervised machine learning for natural language processing to classify spam messages for Hindi Language.
     <br />
-    <!-- <a href="https://kiran-karandikar.github.io/Hindi-Spam-Message-Classifier"><strong>Preview</strong></a>
+    <a href="https://htmlpreview.github.io/?https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.html"><strong>Preview</strong></a>
     <br />
-    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier">View Demo</a>
-    ·
+    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.ipynb"><strong>Explore the docs »</strong></a>
+    <br /> 
+    <!--<a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier">View Demo</a>
+    · -->
+    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.ipynb"><strong>Research Paper</strong></a>
+    .
     <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Request Feature</a> -->
+    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Request Feature</a>
   </p>
 </div>
 
