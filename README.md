@@ -46,7 +46,7 @@
     <br /> 
     <!--<a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier">View Demo</a>
     · -->
-    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.ipynb"><strong>Research Paper</strong></a>
+    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/Text%20Classification%20for%20Hindi%20Documents%20using%20Supervised%20Machine%20learning%20Methods.pdf"><strong>Research Paper</strong></a>
     .
     <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Report Bug</a>
     ·
