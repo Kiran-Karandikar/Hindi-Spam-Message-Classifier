@@ -31,29 +31,30 @@
 
 [linkedin-url]: https://linkedin.com/in/kiran-karandikar
 
-<!-- --------- -->
+---------
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Spam message Classifier for Hindi Language.</h3>
+<h3 align="center">Hindi-Spam-Message-Classifier</h3>
   <p align="center">
-    Supervised machine learning for natural language processing to classify spam messages for Hindi Language.
+    Supervised machine learning for natural language processing to classify spam messages for Hindi Language.    
+    <br />    
+    <a href="https://kiran-karandikar.github.io/Hindi-Spam-Message-Classifier"><strong>Preview</strong></a>
     <br />
-    <a href="https://htmlpreview.github.io/?https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.html"><strong>Preview</strong></a>
+    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/spam_classifier_hindi.ipynb"><strong>Explore the docs »</strong></a>
-    <br /> 
-    <!--<a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier">View Demo</a>
-    · -->
-    <a href="https://github.com/Kiran-Karandikar/Hindi-Spam-Message-Classifier/blob/master/Text%20Classification%20for%20Hindi%20Documents%20using%20Supervised%20Machine%20learning%20Methods.pdf"><strong>Research Paper</strong></a>
-    .
+    <br />
+    <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier">View Demo</a>
+    ·
     <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Report Bug</a>
     ·
     <a href="https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier/issues">Request Feature</a>
   </p>
 </div>
 
+<!-- BADGES.MD Finish -->
 <!-- BADGES.MD Finish -->
 
 <!-- TABLE OF CONTENTS -->
@@ -136,3 +137,25 @@ Project
 Link: [https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier](https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Other projects
+
+Check out the other stuff I've worked upon.
+
+- ___AI/ML/Data Science___
+
+  - **AML-Home-Credit-Default-Risk** : [Predicting how capable each applicant is of repaying a loan \(Kaggle Challenge\).](https://github.com/Kiran-Karandikar/AML-Home-Credit-Default-Risk)
+
+  - **Exercise-performance-analysis** : [Prototype exercise volume prediction using machine learning models.](https://github.com/Kiran-Karandikar/Exercise-performance-analysis)
+
+- ___Web Development___
+
+  - **flask-app-template** : [Simple, reusable, minimalistic, configurable flask app.](https://github.com/Kiran-Karandikar/flask-app-template)
+
+  - **flask-oauth2-wrike-api** : [A sample Flask app to authenticate with Wrike as a third-party OAuth2 provider.](https://github.com/Kiran-Karandikar/flask-oauth2-wrike-api)
+
+> Section `Other projects` is auto-updated using [Github actions](https://github.com/features/actions). 
+<!-- CONTACT -->
+## Contact
+
+- [Kiran Karandikar: khkarandikar at gmail dot com](mailto:khkarandikar@gmail.com)
