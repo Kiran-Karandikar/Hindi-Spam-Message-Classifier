@@ -115,22 +115,6 @@ Distributed under the `MIT License`. See [`LICENSE`](./LICENSE) for more informa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-<!-- CONTACT -->
-
-## Contact
-
-* [Kiran Karandikar](mailto:khkarandikar@gmail.com)
-
-Project
-Link: [https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier](https://github.com/kiran-karandikar/Hindi-Spam-Message-Classifier)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
 
 ### Other projects
 
